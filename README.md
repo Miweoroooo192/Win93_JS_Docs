@@ -1,5 +1,5 @@
 # Win93 JS Documentation
-JavaScript documentation for Windows93.net http://windows94.net/docs/
+JavaScript documentation for Windows93.net http://windows93.net/docs/
 
 # locally installing
 get python and make sure pip and python scripts are in your path / env vars
